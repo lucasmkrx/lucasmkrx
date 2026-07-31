@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://lh3.googleusercontent.com/sitesv/AG8ngQWuizYPnFGVj7Fw-Rf5-YEjaAeAJcAFep7ObGSuWaWxGKZf8aufiZQRwG1VVeAis4wOsaJ2guHwswa_c2zFkgRhK12HNDKCJmSLISucQJ8paVQICsjN6fUF4SikwF77efHWEUOidLvfCRtqSAP5CHpZD6hRP80EHQ8-eavysR1i2qxbDJVStVJujLyI=w1280" alt="Lucas Marques" width="120" style="border-radius: 50%;">
+  <img src="https://github.com/user-attachments/assets/8570b26a-199f-4851-b144-33d03619c3d7" alt="Lucas Marques" width="120">
 
   # Lucas Marques
 
