@@ -1,18 +1,27 @@
-<img src="https://github.com/user-attachments/assets/c14fbade-e7ae-495e-a291-ac3094621274" alt="Profile Image" style="width:20%;">
+<div align="center">
 
-## Hi, I'm Lucas Marques!
+  <img src="https://lh3.googleusercontent.com/sitesv/AG8ngQWuizYPnFGVj7Fw-Rf5-YEjaAeAJcAFep7ObGSuWaWxGKZf8aufiZQRwG1VVeAis4wOsaJ2guHwswa_c2zFkgRhK12HNDKCJmSLISucQJ8paVQICsjN6fUF4SikwF77efHWEUOidLvfCRtqSAP5CHpZD6hRP80EHQ8-eavysR1i2qxbDJVStVJujLyI=w1280" alt="Lucas Marques" width="120" style="border-radius: 50%;">
 
-Welcome to my GitHub! I'm an **Embedded Systems Engineer** with a decade of experience in **R&D for robotics** and **software solutions**. I’m passionate about creating innovative technologies and expanding my expertise in **software development**.
+  # Lucas Marques
 
-### Technologies
-![Python](https://img.shields.io/badge/Python-0A3161?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-FFFFFF?style=flat&logo=cplusplus&logoColor=black)
-![AI](https://img.shields.io/badge/AI-B31942?style=flat&logo=openai&logoColor=white)
+  **AI-Augmented Embedded & Systems Developer**
 
-### Highlights
-- Skilled in **Embedded Systems**, **Electronic Circuit Design**, and **3D CAD Prototyping**
-- Co-founded a robotic 3D printing platform and led projects that secured **$2M in funding**
-- Published research in **Swarm 3D Printing** and filed **4 U.S. patents**
-- Built flight controllers and algorithms for heavy-lift drones and autonomous robots
-- Designed embedded systems for innovative delivery and manufacturing solutions
-- Postgrad in **AI & Big Data** and **B.S. in Electrical Engineering**
+  [![Website](https://img.shields.io/badge/website-lucasgmarques.com-blue)](https://www.lucasgmarques.com)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-lucasmkrx-blue?logo=linkedin)](https://linkedin.com/in/lucasmkrx)
+  [![Email](https://img.shields.io/badge/email-lucas@marques.llc-red?logo=gmail)](mailto:lucas@marques.llc)
+
+</div>
+
+<br />
+
+### About Me
+
+AI-augmented embedded and systems developer with 10+ years of experience building software, firmware, electronics, robotics, and hardware-integrated products. Proficient in C++, Python, and TypeScript, with experience spanning STM32 systems, firmware security, control algorithms, full-stack applications, cloud integrations, and technical product delivery. Skilled at directing AI development agents, critically reviewing generated output, and translating complex requirements into reliable production systems. Co-inventor on four issued U.S. patents and co-author of five peer-reviewed papers.
+
+---
+
+### Core Technologies
+
+- **Languages & Embedded:** `C++` • `Python` • `TypeScript` • `STM32` • `PCB Design` • `Firmware Security` • `Control Systems`
+- **Full-Stack & Cloud:** `React` • `Next.js` • `Django` • `Express` • `Firebase` • `AWS` • `GCP`
+- **AI Development:** `Google Antigravity` • `Claude Code` • `OpenAI Codex` • `Gemini API` • `OpenAI API`
