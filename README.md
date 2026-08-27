@@ -4,7 +4,7 @@
 
   # Lucas Marques
 
-  **AI-Augmented Embedded & Systems Developer**
+  **Senior Full-Stack Software Engineer | AI Applications**
 
   [![Website](https://img.shields.io/badge/website-lucasgmarques.com-blue)](https://www.lucasgmarques.com)
   [![LinkedIn](https://img.shields.io/badge/linkedin-lucasmkrx-blue?logo=linkedin)](https://linkedin.com/in/lucasmkrx)
@@ -16,12 +16,16 @@
 
 ### About Me
 
-AI-augmented embedded and systems developer with 10+ years of experience building software, firmware, electronics, robotics, and hardware-integrated products. Proficient in C++, Python, and TypeScript, with experience spanning STM32 systems, firmware security, control algorithms, full-stack applications, cloud integrations, and technical product delivery. Skilled at directing AI development agents, critically reviewing generated output, and translating complex requirements into reliable production systems. Co-inventor on four issued U.S. patents and co-author of five peer-reviewed papers.
+Senior software engineer with 10+ years of experience building and architecting production software, AI-enabled applications,
+cloud-connected systems, embedded platforms, and complex hardware/software products. Strong hands-on experience with
+Python, TypeScript, React, backend APIs, cloud infrastructure, and AI/LLM integrations using OpenAI and Gemini. Experi-
+enced translating complex operational requirements into reliable production systems across aviation, e-commerce, robotics,
+and engineering environments. Co-inventor on four issued U.S. patents and co-author of five peer-reviewed papers.
 
 ---
 
 ### Core Technologies
 
-- **Languages & Embedded:** `C++` • `Python` • `TypeScript` • `STM32` • `PCB Design` • `Firmware Security` • `Control Systems`
-- **Full-Stack & Cloud:** `React` • `Next.js` • `Django` • `Express` • `Firebase` • `AWS` • `GCP`
-- **AI Development:** `Google Antigravity` • `Claude Code` • `OpenAI Codex` • `Gemini API` • `OpenAI API`
+- **Languages & Systems:** `Python` • `TypeScript` • `JavaScript` • `C++` • `hardware/software integration`
+- **Applications:** `React` • `Next.js` • `Django` • `Express` • `AWS` • `Google Cloud` • `Firebase` • `Electron` • `Vue.js` • `REST APIs`
+- **AI & LLM Applications:** `OpenAI API` • `Gemini API` • `LLM integration` • `structured outputs` • `agentic workflows` • `LLM integration` • `automated evaluation and testing` • `workflow orchestration` • `human-in-the-loop review`
