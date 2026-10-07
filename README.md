@@ -1,31 +1,40 @@
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/8570b26a-199f-4851-b144-33d03619c3d7" alt="Lucas Marques" width="120">
+<img src="https://github.com/user-attachments/assets/8570b26a-199f-4851-b144-33d03619c3d7" alt="Lucas Marques" width="120">
 
-  # Lucas Marques
+# Lucas Marques
 
-  **Senior Full-Stack Software Engineer | AI Applications**
+**Senior Full-Stack Engineer · Production AI Applications**
 
-  [![Website](https://img.shields.io/badge/website-lucasgmarques.com-blue)](https://www.lucasgmarques.com)
-  [![LinkedIn](https://img.shields.io/badge/linkedin-lucasmkrx-blue?logo=linkedin)](https://linkedin.com/in/lucasmkrx)
-  [![Email](https://img.shields.io/badge/email-lucas@marques.llc-red?logo=gmail)](mailto:lucas@marques.llc)
+[![Portfolio](https://img.shields.io/badge/Portfolio-lucasgmarques.com-blue)](https://www.lucasgmarques.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lucasmkrx-blue?logo=linkedin)](https://linkedin.com/in/lucasmkrx)
 
 </div>
 
-<br />
+## About me
 
-### About Me
+I build software that connects complex business workflows to reliable production systems—from aviation operations and payments to AI-powered commerce and education.
 
-Senior software engineer with 10+ years of experience building and architecting production software, AI-enabled applications,
-cloud-connected systems, embedded platforms, and complex hardware/software products. Strong hands-on experience with
-Python, TypeScript, React, backend APIs, cloud infrastructure, and AI/LLM integrations using OpenAI and Gemini. Experi-
-enced translating complex operational requirements into reliable production systems across aviation, e-commerce, robotics,
-and engineering environments. Co-inventor on four issued U.S. patents and co-author of five peer-reviewed papers.
+My 10+ years of engineering experience span software, cloud systems, embedded platforms, and robotics. Today, I focus on full-stack development with **Python, TypeScript, React, and cloud infrastructure**, integrating AI into complete products with clear data flows and human review.
 
----
+Previously, I co-founded a robotics startup and led avionics R&D. I'm a co-inventor on **four issued U.S. patents** and a co-author of **five peer-reviewed papers**.
 
-### Core Technologies
+## Selected work
 
-- **Languages & Systems:** `Python` • `TypeScript` • `JavaScript` • `C++` • `hardware/software integration`
-- **Applications:** `React` • `Next.js` • `Django` • `Express` • `AWS` • `Google Cloud` • `Firebase` • `Electron` • `Vue.js` • `REST APIs`
-- **AI & LLM Applications:** `OpenAI API` • `Gemini API` • `LLM integration` • `structured outputs` • `agentic workflows` • `LLM integration` • `automated evaluation and testing` • `workflow orchestration` • `human-in-the-loop review`
+- **AI commerce:** Built a paid photo-to-artwork product connecting a Next.js storefront, background AI processing, customer proof approval, payments, and print fulfillment.
+- **Aviation marketplace:** Built interfaces and backend workflows for pilot staffing, qualification checks, and payments tied to verified flight completion.
+- **Teaching platform:** Built AI-assisted lesson preparation with source-linked content, teacher review, synchronized classroom interactions, and spaced-repetition practice.
+
+[Explore the projects and architecture →](https://www.lucasgmarques.com)
+
+## Technical toolkit
+
+- **Languages:** Python · TypeScript · JavaScript · C++
+- **Frontend:** React · Next.js · Vue.js
+- **Backend:** Django · Express · REST APIs
+- **Cloud & infrastructure:** AWS · Google Cloud · Firebase · Docker
+- **AI applications:** OpenAI API · Gemini API · structured outputs · agentic workflows · evaluation and testing · human-in-the-loop review
+
+## Let's connect
+
+Based in **Brazil**, open to remote software and AI engineering opportunities with U.S. teams. Available for **B2B engagements through my U.S. LLC**.
