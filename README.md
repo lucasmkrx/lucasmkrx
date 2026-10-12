@@ -6,7 +6,7 @@
 
 **Senior Full-Stack Engineer · Production AI Applications**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-lucasgmarques.com-blue)](https://www.lucasgmarques.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-lucasgmarques.com-blue)](https://lucasgmarques.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lucasmkrx-blue?logo=linkedin)](https://linkedin.com/in/lucasmkrx)
 
 </div>
@@ -25,7 +25,7 @@ Previously, I co-founded a robotics startup and led avionics R&D. I'm a co-inven
 - **Aviation marketplace:** Built interfaces and backend workflows for pilot staffing, qualification checks, and payments tied to verified flight completion.
 - **Teaching platform:** Built AI-assisted lesson preparation with source-linked content, teacher review, synchronized classroom interactions, and spaced-repetition practice.
 
-[Explore the projects and architecture →](https://www.lucasgmarques.com)
+[Explore the projects and architecture →](https://lucasgmarques.com)
 
 ## Technical toolkit
 
